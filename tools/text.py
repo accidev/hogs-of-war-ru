@@ -99,9 +99,28 @@ def lines_of(txt_path):
     return text[:-1].split('\n') if text.endswith('\n') else text.split('\n')
 
 
+def check_grids(lines):
+    """The letter grids of the name screen (fetext strings 0 and 0x310) must hold all 26 Latin letters.
+
+    For a key A-Z the game looks its Latin letter up in the grid and does not check that it is there:
+    a grid without the letter crashes the game on that key (release 1.1.0 did, on 15 keys).
+    """
+    for n in (0, 0x310):
+        grid = to_bytes(lines[n])
+        missing = [chr(a) for a in range(ord('A'), ord('Z') + 1) if a - 0x1F not in grid]
+        if missing:
+            raise SystemExit('fetext line %d, a letter grid of the name screen, has no %s: the game crashes '
+                             'on these keys' % (n + 1, ' '.join(missing)))
+        if len(grid) > 49:
+            raise SystemExit('fetext line %d: %d cells, the board of the name screen has five rows of ten and '
+                             'the game makes a sixth row from 50 cells on' % (n + 1, len(grid)))
+
+
 def build():
     for name in TABLES:
         out = ROOT / 'Language' / 'Text'
+        if name == 'fetext':
+            check_grids(lines_of(ROOT / 'text' / (name + '.txt')))
         count, size = write_table(lines_of(ROOT / 'text' / (name + '.txt')), out / (name + '.bin'), out / (name + '.ofs'), name)
         print('%s: %d strings, %d bytes' % (name, count, size))
 

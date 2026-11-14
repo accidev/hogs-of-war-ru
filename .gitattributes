@@ -1,0 +1,6 @@
+# Game data is binary: no line-end conversion, no text diff
+FEText/** binary
+Language/** binary
+# Windows scripts keep CRLF line endings in every checkout
+*.ps1 text eol=crlf
+*.cmd text eol=crlf

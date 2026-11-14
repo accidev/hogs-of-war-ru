@@ -1,0 +1,786 @@
+АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ-*&'+,0123456789
+
+
+OK
+
+ХОТИТЕ ВЫЙТИ?
+ДА
+НЕТ
+ГЛАВНОЕ МЕНЮ
+1 ИГРОК
+МНОГО ИГРОКОВ
+НАСТРОЙКИ
+УПРАВЛЕНИЕ
+1 ИГРОК
+МНОГО ИГРОКОВ
+НАСТРОЙКИ
+ВЫХОД
+НАСТРОЙКИ
+ЗВУК
+ДИСПЛЕЙ
+АВТОРЫ
+ЗВУК
+УПРАВЛЕНИЕ
+АВТОРЫ
+ВЫБОР КОМАНДЫ
+ПЯТАЧОК ТОММИ
+ХРЯК ГАРЛИК
+ХРЯК БРЯК
+РУСОХРЯК
+ХРЮК-СУШИ
+ХРЯК-БЯК
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ЗАГРУЗИТЬ
+
+ВВЕДИТЕ КОД УРОВНЯ
+
+
+НАЧАТЬ МИССИЮ
+СОХРАНИТЬ
+НАЗОВИТЕ ВАШУ СВИНЬЮ
+
+1 ИГРОК
+НОВАЯ ИГРА
+ЗАГРУЗИТЬ
+НАЗОВИТЕ ВАШУ КОМАНДУ
+
+МНОГО ИГРОКОВ
+КОМАНДА А
+КОМАНДА В
+КОМАНДА С
+КОМАНДА Д
+ГОТОВО
+СЕТЬ
+ПОЛЕВЫЕ УСЛОВИЯ
+
+НАЗОВИТЕ ВАШУ КОМАНДУ
+
+
+ПОВЫСИТЬ
+ЗАМЕНИТЬ
+ОБОЗВАТЬ
+КОНТРОЛЬ ЗВУКА
+РЕЖИМ
+МАСТЕР
+ЗВУК
+ГОЛОС
+СОХРАНИТЬ
+
+ДВИЖОК
+
+
+
+
+
+ВЫЙТИ?
+ДА
+НЕТ
+КАРЬЕРА
+ГРАНАТОМЕТ
+ИНЖЕНЕР
+ШПИОН
+МЕДИК
+
+
+
+
+
+
+
+
+
+
+ВЫБЕРИТЕ УРОВЕНЬ
+НОВИЧОК
+ЭКСПЕРТ
+СТРАТЕГ
+МАТЧ
+ГЕНЕРАЦИЯ
+УРОВЕНЬ
+СЛУЧАЙНЫЙ УРОВЕНЬ
+ВЫБОР
+СЛУЧАЙНО
+КОД
+МАТЧ-ВЫБОР
+МАТЧ-СЛУЧАЙНО
+МАТЧ-КОД
+
+
+
+
+
+
+ПЕРЕИМЕНОВАТЬ
+ЗАМЕНИТЬ
+ЗАГРУЗИТЬ
+
+
+ПЕРЕИМ. КОМАНДУ
+СМЕНИТЬ КОМАНДУ
+СМЕНИТЬ РАНГ
+СЛЕД.ИГРОК
+НАЧАТЬ ИГРУ
+
+ДВИЖОК
+
+
+ДИСПЛЕЙ
+OK
+ПРОЙТИ ТРЕНИРОВКУ?
+ДА
+НЕТ
+
+УПРАВЛЕНИЕ
+
+
+ВЫЙТИ?
+ДА
+НЕТ
+СЕКРЕТНЫЙ УРОВЕНЬ
+АВТОРЫ
+ОПЦИИ ВЫБОРОЧНОГО УРОВНЯ
+ГЕНЕРИРОВАТЬ
+СЕТЬ: СОЕДИНИТЬСЯ
+
+СЕТЬ: ИГРЫ
+
+СЕТЬ: ИГРОКИ
+
+СЕТЬ: СОЗДАТЬ ИГРУ
+
+СЕТЬ: ВЫБРАТЬ АРМИЮ
+
+ВРАГ
+ПЯТАЧОК ТОММИ
+НОББИ
+ГИНГЕР
+ДЕН
+МОНТИ
+ВАСИЛЬ
+ПОНСОН
+ПЕРСИ
+СМИТ
+ДЖОНС
+ХРЯК ГАРЛИК
+БАСТИЛЬ
+ЛЕ КОНТ
+ЖЕРАРД
+ЧИЕН
+САНГЛЕР
+КОКУ
+ПОРК
+ГОФРИ
+КЛОУТОН
+ХРЯК БРЯК
+ЧАККИ
+СЛАЙ
+КАНУ
+АБРАХАМ
+ДЖОН
+ДЖИМ
+БОББИ
+ДЖО
+БОБ
+РУСОХРЯК
+ИВАН
+ПЕТР
+СЕМЕН
+ВАСИЛЬ
+НАЗАР
+СИДОР
+ЕГОР
+САНЯ
+МУЛЯ
+ХРЯК-СУШИ
+ШОГАН
+КЕНДО
+КУНГ-ФУ
+ФЭН ШУЙ
+НИНДЗЯ
+СУШИ
+КЕМПО
+ТЕНКО
+РАВИ
+ХРЯК-БЯК
+ГЕРМАН
+ВУЛФИ
+ЛЕДЕРМАН
+ГЕЛЬ
+КУТС
+ШНИДЕЛЬ
+ДРАЙ
+РЕЙД
+СВЕЙН
+ЛАРД
+СИМОН
+ТАППЕР
+ДЖОН
+АНДИ
+МАРК
+ЯКОВ
+МАРТИН
+ИЗЯ
+РИККИ
+ДОЛЛИ
+ФИЛ
+АДИ
+ШОРТИ
+БЕН
+БАДДЕРС
+ФИЛИПП
+ДЖИМ
+ПОЛЬ
+ДЖЕЙМС
+СВИТИ
+СЛЕД.МИССИЯ =
+МИССИЯ
+ПАТРУЛЬ
+ТРАНШЕИ
+ВТОРЖЕНИЕ
+СЛАВА!
+ПРОРЫВ
+В ОСАДЕ
+ШПИОНАЖ
+МАРШ
+ПУСТЫНЯ
+КРЕСТЬЯНЕ
+ЛАГЕРЬ
+РЯДОВОЙ РИНД
+НАВЕРХУ
+ЛЕДНИК
+БАЗА
+КОНВЕНЦИЯ
+УКРЕПЛЕНИЕ
+ШПИОН
+ХИМИКИ
+АХИЛЛЕСОВА ПЯТА
+УБИЙСТВО
+ВЫСОТА
+ГЕРОЙ
+ГАМБУРГЕР
+ВСЕ БУДЕТ ХОРОШО!
+ВОЙНА
+ДРАФТ
+ЗЕМЛЯ
+ТЕМА
+МИНЫ
+ВЫСОТА
+МАШИНЫ
+ЗЕРКАЛЬНО
+НЕБО
+СБРОСЫ
+НИЗ.
+СРЕД.
+ВЫС
+НЕТ
+МАЛО
+МНОГО
+МАЛО
+МНОГО
+ВСЕ
+ДЕНЬ
+ЗАКАТ
+НОЧЬ
+МРАК
+ХРЯКИ
+ВРЕМЯ ХОДА
+ЛИМИТ МАТЧА
+ЗДОРОВЬЕ
+ВНЕЗ. СМЕРТЬ
+ВЫБОР ХРЯКА
+НОРМ.
+ПОЛОВИНА
+ДВОЙН.
+ВЫК
+ВК
+10
+20
+30
+45
+60
+99
+-1
+НОРМА
++1
+ВЫК
+10
+20
+30
+3
+4
+5
+6
+7
+8
+9
+10
+20
+ИГРОК
+КОМПЬЮТЕР
+ВЫКЛ
+КОМАНДА
+МОНО
+СТЕРЕО
+ЗВУК ВОКРУГ
+ДВИГ.//ПРИЦЕЛ.
+ДЕЙСТВИЕ//ОГОНЬ
+МЕНЮ
+ОТМЕНА
+КАМЕРА
+ПРИЦЕЛ ВНИЗ
+ПРИЦЕЛ ВВЕРХ
+ПАУЗА
+ПРЫЖОК
+РАСКЛАДКА УПРАВЛЕНИЯ
+ВИБРАЦИИ ВКЛ
+ВИБРАЦИИ ВЫКЛ
+ВПЕРЕД
+НАЗАД
+ВЛЕВО
+ВПРАВО
+ДЕЙСТВИЕ
+ОГОНЬ//ВЫБОР
+ПРЫЖОК
+МЕНЮ ОРУЖИЯ
+ПРИЦЕЛ//ВЗГЛЯД
+УМЕНЬШИТЬ УГОЛ
+УВЕЛИЧИТЬ УГОЛ
+ПАУЗА
+ESC
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+-
+=
+BACKSPACE
+ТАБ
+Q
+W
+E
+R
+T
+Y
+U
+I
+O
+P
+[
+]
+ВВОД
+Л.CTRL
+A
+S
+D
+F
+G
+H
+J
+K
+L
+;
+'
+#
+Л.ШИФТ
+\
+Z
+X
+C
+V
+B
+N
+M
+,
+.
+//
+П.ШИФТ
+ПАД*
+ПРОБЕЛ
+КАПС
+F1
+F2
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+F10
+NUM LOCK
+SCROLL LOCK
+ПАД7
+ПАД8
+ПАД9
+ПАД-
+ПАД4
+ПАД5
+ПАД6
+ПАД+
+ПАД1
+ПАД2
+ПАД3
+ПАД0
+ПАД.
+ПАД=
+ПАД ВВОД
+П.CTRL
+ПАД
+ПАД//
+HOME
+ВВЕРХ
+СТР ВВЕРХ
+ВЛЕВО
+ВПРАВО
+END
+ВНИЗ
+СТР ВНИЗ
+ВСТАВИТЬ
+УДАЛИТЬ
+НЕИЗВЕСТНО
+ДЖОЙСТИК
+ВВЕДИТЕ АДРЕС
+- ИГРА -
+OK
+НАЖМИТЕ ТАБ
+НАЖМИТЕ СТАРТ
+ЗАГРУЗКА....
+ПОВЫСИТЬ -
+ХРЯК
+ОХОТНИК
+БОМБАРДИР
+ПИРОТЕХНИК
+КОММАНДО
+САПЕР
+ИНЖЕНЕР
+ТЕРРОРИСТ
+СКАУТ
+СНАЙПЕР
+ШПИОН
+СВЯЗНОЙ
+МЕДИК
+ХИРУРГ
+ГЕРОЙ
+ГРЕНАДЕР
+ПИРОТЕХНИК
+ПИРОТЕХНИК
+ПИРОТЕХНИК
+ПАРАШЮТИСТ
+ИНЖЕНЕР
+ИНЖЕНЕР
+ИНЖЕНЕР
+СНАЙПЕР
+СНАЙПЕР
+СНАЙПЕР
+МЕДИК
+МЕДИК
+МЕДИК
+ГЕРОЙ
+СНЕГ
+ПУСТЫНЯ
+ЛЕС
+ГРЯЗЬ
+КАМЕНЬ
+ЖИЖА
+   ГЕРОИ ВОЙНЫ
+
+
+
+ADE CARLESS
+SENIOR DESIGNER
+ANDREW FOX
+LEAD PROGRAMMER
+BERNI
+ARTIST
+IZZY STEWART
+ARTIST
+JACOB HABGOOD
+PROGRAMMER
+JOHN GUERIN
+ARTIST
+MATTHEW WHITE
+PRODUCER
+PAUL TAPPER
+PROGRAMMER
+SIMON NICHOLASS
+PROGRAMMER
+
+
+   TROOPERS
+
+
+
+KEVIN SAVILLE
+SOUND DESIGNER
+BEN WILSON
+PROGRAMMER
+IAN BADCOE
+PROGRAMMER
+MATT DONKIN
+VERSION CONTROL
+PAUL HILEY
+ADDITIONAL PROGRAMMER
+PHIL RANKIN
+ADDITIONAL PROGRAMMER
+SARAH BENNETT
+LOCALISATION
+ALAN COLTMAN
+FMV DIRECTOR
+DARREN MILLS
+FMV ARTIST
+GAVIN WHELAN
+FMV ARTIST
+JOHN HACKLETON
+FMV ARTIST
+RICHARD SIMMONS
+FMV ARTIST
+CARL CAVERS
+EUROPEAN DEV. DIRECTOR
+PAUL PORTER
+STUDIO MANAGER
+PATRICK PHELAN
+CREATIVE MANAGER
+IAN STEWART
+ORIGINAL CONCEPT
+MARK GLOSSOP
+EXECUTIVE PRODUCER
+MARC SILK
+VOICES
+RIK MAYALL
+VOICES
+LEWIS GLOVER
+QA MANAGER
+PHIL ECKFORD
+ASSOCIATE QA MANAGER
+ROB LUNT
+QA SUPERVISOR
+NICK HERRING
+LEAD TESTER
+IAN HAMMOND
+TESTER
+CHRIS GREATBATCH
+TESTER
+DARREN SELLARS
+TESTER
+JODY HINDLE
+TESTER
+ROB TAYLOR
+TESTER
+MICK SANDERSON
+TESTER
+MATT TUCKET
+TESTER
+MARK BRIDGES
+TESTER
+GARETH DAVENPORT
+TESTER
+MICK EYRE
+TESTER
+MATT HINDLE
+TESTER
+
+
+  CASUALTIES OF WAR
+
+
+
+CHRIS SWEETMAN
+SOUND DESIGNER
+GRAHAM STONE
+ADDITIONAL PROGRAMMER
+JAMES LONG
+ADDITIONAL PROGRAMMER
+PHIL WILSON
+DESIGNER
+RICKI MARTIN
+LEAD ARTIST
+MARTYN ROTHERHAM
+ARTIST
+PHIL ROWE
+ADDITIONAL ARTIST
+PETER DALTON
+PRODUCER
+
+
+  HOME GUARD
+
+
+
+JEAN-PHILIPPE AGATI
+EX. VP PROD. AND PUBL.
+OLIVIER GOULAY
+HEAD OF LABEL
+LARRY SPARKS
+MARKETING
+MONIQUE CRUSOT
+MARKETING
+CINDY CHURCH
+MARKETING
+RICHARD IGGO
+MARKETING
+MORGAN O'RAHILLY
+PRODUCTION
+IVAN DAVIES
+PRODUCTION
+TONY BUCKLEY
+PRODUCTION
+SEAN MILLARD
+DESIGN CONSULTANT
+2DB
+MUSIC
+SEMI-PRECIOUS STUD. LTD
+MUSIC
+COOL BEAN PROD. LTD
+INTRO AND OUTRO AVI'S
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ПЛАЙ ПЕН
+ДЮВЕТ
+ГРЕЙВЯРД
+ХЕЛЛ
+СКУЛДАГГЕРИ
+СВИНЬИ В КОСМОСЕ
+ЧИЛ ХИЛ
+БУОЛИНГ
+ФРОСТ
+ЛЕД
+РИДДЛ
+ХИЛЛОК
+ХОППЕР
+СКВАЙР
+ОЗЕРО
+СИСТЕМА
+ОБРЕЧЕННЫЕ
+БАСТЕРЫ
+СВОЙ ОГОНЬ
+ЛУНОХОД
+КРАТЕР
+ДОЛИНА СМЕРТИ
+ДОЛИНА СМЕРТИ 2
+ЛАБИРИНТ
+ПРОПАСТЬ
+.
+ЛЕНИВЦЫ
+ПАРШИВЦЫ
+ЖАДИНЫ
+МАРДИ
+СПИДИ
+ЗАНУДЫ
+СВИНИНА
+ДЕМО
+КОМАНДА 1
+КОМАНДА 2
+ИЗЗИ
+СТЮАРТ
+НИК
+LE RENARD
+БИГ-МАТ
+ЯКОБСКИ
+ТАПАЗУКИ
+ХЕР ГЕРИН
+/Z(20,5)/9 HELP
+/S/S/9 EXIT HELP
+/Z(90,20)/3 SELECT
+/Z(90,20)/B BACK
+/Z(90,32)/3 SELECT/N/S/S/B BACK
+/Z(193,110)/3 SELECT/N/S/S/B BACK/N/S/SMOVE THE CURSOR ON TO A PIG /N/SAND PRESS THE /3 BUTTON TO /N/SPROMOTE, SWAP OR RENAME IT/N/S/SIF YOU SEE /C BY A PIG THEN /N/SYOU HAVE ENOUGH PROMOTION /NPOINTS TO PROMOTE IT TO THE /NNEXT RANK
+/Z(131,62)/3 SELECT/N/S/S/B OR /A BACK // DEL/N/S/S/8 SPACE/N/S/SSELECT OK TO ACCEPT
+/Z(130,42)DUE TO SOME NAUGHTI-/NNESS YOU CAN CHOOSE /NWHICH LEVEL TO PLAY
+/Z(224,123)THE PIG WHOSE PICTURE IS FLIPPING WILL SWAP PLACES WITH THE NEXT PIG YOU SELECT/N/S/STO CANCEL THE SWAP PRESS THE /N/S/B BUTTON/N/S/STHE ORDER OF THE PIGS ON THIS /NSCREEN IS THE ORDER THEY WILL /NHAVE THEIR TURNS IN THE GAME/N/S/SPIGS WITH GREYED OUT PICTURES /NDON'T TAKE PART IN THE NEXT /NBATTLE
+/Z(150,82)SELECT A CAREER PATH /N/SWITH THE /3 BUTTON/N/S/STHE PATH YOU CHOOSE /NFOR THIS PIG WILL /NDETERMINE THE SKILLS IT CAN USE IN THE GAME/N/S/S/B BACK
+/Z(135,72)CHANGE THE AUDIO MODE /N/SWITH THE /3 BUTTON/N/S/SMOVE THE SLIDERS /NTO CHANGE THE VARIOUS VOLUMES/N/S/S/B BACK
+/Z(103,29)ADJUST THE SCREEN POSITION.
+/Z(130,62)THESE ARE THE HARD-/NWORKING PEOPLE WHO /NCRAFTED THIS FINE /NGAME/N/S/S/B BACK
+/Z(128,32)/3 TOGGLE VIBRATION/N/S/S/B BACK
+/Z(180,62)SET THE NUMBER OF PLAYERS /NAND WHETHER THOSE PLAYERS ARE HUMAN CONTROLLED OR /NCOMPUTER CONTROLLED/N/S/S/B BACK
+/Z(168,62)/3 SELECT/N/S/S/B BACK/N/S/STO CHANGE THE RANKS OF/NYOUR PIGS OR RENAME THEM,/NSELECT 'CHANGE RANKS'.
+/Z(155,81)/3 SELECT/N/S/S/B RETURN TO SQUAD/N/SOPTIONS COLUMN/N/STO CHANGE THE RANK OF A /NPIG, POSITION CURSOR OVER/NIT AND INDICATE LEFT OR /NRIGHT
+/Z(158,63)/3 SELECT A LEVEL TYPE /N/S(OR LEVEL SETUP)/N/SUSE THE /3 BUTTON AGAIN /N/STO SELECT THE LEVEL/N/S/B BACK
+/Z(150,57)IN THE FULL VERSION OF /NTHE GAME YOU WILL BE /NABLE TO PLAY WITH UP TO 4 HUMAN OR COMPUTER /NPLAYERS
+АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ-*&'+,0123456789
+ABCDEFGHIJKLMNOPQRSTUVWXYZ-*&'+,0123456789
+*
